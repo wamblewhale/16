@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
 <link rel="stylesheet" href="style.css1">
 </head>
@@ -7,3 +8,4 @@
     <div class="marquee-text">С Новым Годом! Пусть этот год принесет радость и счастье!</div>
 </div>
 </body>
+</html>
